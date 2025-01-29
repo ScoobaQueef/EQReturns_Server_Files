@@ -14,7 +14,11 @@ https://www.projecteq.net/forums/index.php?threads/dragons-of-norrath-release.17
 **DOWNLOAD AND EXTRACT ALL FILES:**
 
 Open maps folder and replace all map related files in your client, located in the maps folder, or make a new folder within /maps and place there. You can then select it in game.
+
 Open Resources folder and replace all resources related in your client, located in the Resources folder.
+
 Overwrite all files in your main client directory with the remaining files from the main downloaded folders.
+
 **Remove/delete bazaar.eqg from your client** - make backups if desired. This server uses the old bazaar, so we do not need this file.
+
 Any further server updates to dbstr, Resources, BaseData, and spells will be uploaded to Discord. 
